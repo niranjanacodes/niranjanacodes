@@ -103,7 +103,7 @@ Built a local **RAG-based AI assistant** using **Llama 3.2, ChromaDB, and FastAP
 
 <p>
   <a href="mailto:niranjana2310175@ssn.edu.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/niranjana-rajagopal-95969b305"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center"><i>⭐️ From <a href="#">Niranjana R</a> — thanks for stopping by!</i></p>
