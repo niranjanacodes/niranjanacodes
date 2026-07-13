@@ -17,7 +17,7 @@
 - 🧠 Currently building projects around **RAG pipelines, IoT systems, and full-stack web apps**
 - 🖥️ Domain Head — Web Development, Tech Club (SSN) | 2026–2027
 - 📝 Sub-Editor, *The Impulse* (Department Magazine)
-- ⚡ Fun fact: I've built everything from FPGA decoders to Spotify-Wrapped-style shopping dashboards!
+
 
 ---
 
@@ -62,6 +62,8 @@
 **Ashok Leyland** — *Intern, Department of Digital Applications*
 Built a local **RAG-based AI assistant** using **Llama 3.2, ChromaDB, and FastAPI** that answers employee/customer queries grounded in internal PDFs and vehicle datasets.
 
+Worked on basic Full-Stack client-server model and database CRUD operations.
+
 ---
 
 ### 🌟 Featured Projects
@@ -76,7 +78,7 @@ Built a local **RAG-based AI assistant** using **Llama 3.2, ChromaDB, and FastAP
 | **[Security Alarm for Domestic Safety](#)** (2024) | BJT-based cost-effective security alarm system for unauthorized access detection | Electronics, BJTs |
 | **[Pygame Arcade](#)** (2023) | Three-in-one gaming app: Brick Breaker, Table Tennis, and Maze Game | Python, Pygame |
 
-> 💡 *Tip: Replace the `#` links above with the actual repo URLs once you add this README to your profile.*
+> 
 
 ---
 
